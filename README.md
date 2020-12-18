@@ -4,7 +4,7 @@ and DOM manipulation
 No external libraries used. 
 Tried to make a proper well documented code.
 
-### Features :
-a)Clean readable commented code
-b)Add item
-c)Delete itemd)filter Item
+#### Features :
+#### a)Clean readable commented code
+#### b)Add item
+#### c)Delete itemd)filter Item
