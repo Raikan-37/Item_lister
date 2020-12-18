@@ -7,4 +7,5 @@ Tried to make a proper well documented code.
 #### Features :
 #### a)Clean readable commented code
 #### b)Add item
-#### c)Delete itemd)filter Item
+#### c)Delete itemd
+#### d)filter Item
