@@ -5,7 +5,7 @@ No external libraries used.
 Tried to make a proper well documented code.
 
 #### Features :
-#### a)Clean readable commented code
-#### b)Add item
-#### c)Delete itemd
-#### d)filter Item
+#### a) Clean readable commented code
+#### b) Add item
+#### c) Delete item
+#### d) filter Item
